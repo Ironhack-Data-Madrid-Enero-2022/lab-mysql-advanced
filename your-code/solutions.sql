@@ -45,7 +45,7 @@ CREATE TABLE most_profiting_authors
  (
  author_id varchar (12)  primary key not null,
  profits int (25))
-INSERT INTO most_profiting_authors (author_id, profits) values (722-51-5454, 15021.528000000000)
-INSERT INTO most_profiting_authors (author_id, profits) values (899-46-2035, 15007.176000000000)
-INSERT INTO most_profiting_authors (author_id, profits) values (213-46-8915, 10150.116000000000)
+INSERT INTO most_profiting_authors (author_id, profits) values ("722-51-5454", 15021.528000000000)
+INSERT INTO most_profiting_authors (author_id, profits) values ("899-46-2035", 15007.176000000000)
+INSERT INTO most_profiting_authors (author_id, profits) values ("213-46-8915", 10150.116000000000)
 

@@ -67,4 +67,6 @@ insert into most_profiting_authors (author_id, profits) values ("899-46-2035", 1
 insert into most_profiting_authors (author_id, profits) values ("213-46-8915", 15162.110000000000);
 insert into most_profiting_authors (author_id, profits) values ("722-51-5454", 15021.528000000000)
 
+-- end
+
 
